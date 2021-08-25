@@ -156,12 +156,12 @@
     [
       "KC_TILD",
       "KC_EXLM",
-      "KC_PERC",
-      "KC_DLR",
       "KC_HASH",
+      "KC_PERC",
       "KC_NO",
       "KC_NO",
       "KC_NO",
+      "KC_DLR",
       "KC_LCBR",
       "KC_RCBR",
       "KC_NO",
@@ -180,7 +180,7 @@
       "KC_NO",
       "KC_LSFT",
       "KC_CIRC",
-      "KC_NUBS",
+      "KC_BSLS",
       "KC_AMPR",
       "KC_PIPE",
       "KC_NO",
@@ -200,7 +200,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_PLUS"
+      "KC_NO"
     ],
     [
       "KC_NO",
